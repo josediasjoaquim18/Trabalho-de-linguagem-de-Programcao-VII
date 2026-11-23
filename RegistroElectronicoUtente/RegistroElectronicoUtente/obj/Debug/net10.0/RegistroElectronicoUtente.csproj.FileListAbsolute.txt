@@ -1,0 +1,43 @@
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.exe
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.deps.json
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.runtimeconfig.json
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.dll
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.pdb
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.AssemblyInfoInputs.cache
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.AssemblyInfo.cs
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.csproj.CoreCompileInputs.cache
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.dll
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\refint\RegistroElectronicoUtente.dll
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.pdb
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.genruntimeconfig.cache
+C:\Users\Silo Pedro\Desktop\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\ref\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.exe
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.deps.json
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.runtimeconfig.json
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.pdb
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.AssemblyInfoInputs.cache
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.AssemblyInfo.cs
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\refint\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.pdb
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.genruntimeconfig.cache
+C:\Users\ROGERIO\Downloads\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\ref\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.exe
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.deps.json
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.runtimeconfig.json
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\bin\Debug\net10.0\RegistroElectronicoUtente.pdb
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.AssemblyInfoInputs.cache
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.AssemblyInfo.cs
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.csproj.CoreCompileInputs.cache
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\refint\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.pdb
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\RegistroElectronicoUtente.genruntimeconfig.cache
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\ref\RegistroElectronicoUtente.dll
+C:\Users\ROGERIO\OneDrive\Documentos\Projeto Padrão\Tarefa_C#\RegistroElectronicoUtente\RegistroElectronicoUtente\obj\Debug\net10.0\Registro.D0F4CB3B.Up2Date
